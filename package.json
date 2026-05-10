@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "https://github.com/HimanshuDawar-gif/Happy-birthday.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Himanshu",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/HimanshuDawar-gif/Happy-birthdayissues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/HimanshuDawar-gif/Happy-birthday#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
